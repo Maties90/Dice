@@ -1,6 +1,6 @@
-# first_app
+# Dice
 
-A new Flutter project.
+First project in flutter.
 
 ## Getting Started
 
